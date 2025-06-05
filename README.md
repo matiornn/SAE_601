@@ -37,3 +37,9 @@ All data collection, transformation, and visualization code is published in a pu
 - Commit messages are clear and relevant.
 - No secrets or sensitive information are shared publicly.
 - The code is portable and can be easily run by the client.
+
+## Contributors 
+- [@Kila-ht](https://github.com/Kila-ht)
+- [@matiornn](https://github.com/matiornn)
+- [@gina_ju](https://github.com/ginaju)
+- [@glossyfig](https://github.com/Glossyfig)
